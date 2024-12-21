@@ -4,6 +4,7 @@
 
 #**Purpose: Provides language support for the Windows operating system, allowing users to change the display language of the interface**. 
 Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-US~10.0.26100.1742
+
 Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-US~10.0.26100.2033
 
 # Purpose: Provides drivers for VMware's Vmxnet3 virtual network adapter, used in virtualized environments.
